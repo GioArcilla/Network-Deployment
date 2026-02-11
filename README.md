@@ -19,4 +19,5 @@
 - Security; ACLs and L2 sec features
 
 ## Version History
-2-2-2026: Initial README created and repositories created
+2-2-2026: README created and repositories created
+2-10-2026: Etherchannel path created, Layer 2 and Layer 3 topologies added
