@@ -1,1 +1,7 @@
-
+!
+interface Port-channel1
+ switchport trunk native vlan 1000
+ switchport trunk allowed vlan 10,20,40,99
+ switchport mode trunk
+ switchport nonegotiate
+!
