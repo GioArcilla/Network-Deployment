@@ -16,3 +16,6 @@
 - Traffic based on IP addressing
 - Traffic Type: Routed
 - Configuration: no switchport
+
+# Version History
+2-12-26: Etherchannel paths created
