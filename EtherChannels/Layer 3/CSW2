@@ -1,1 +1,27 @@
-
+!
+interface Port-channel1
+ no switchport
+ ip address 10.0.0.42 255.255.255.252
+!
+interface GigabitEthernet1/0/1
+ no switchport
+ ip address 10.0.0.38 255.255.255.252
+ ip ospf network point-to-point
+ ip ospf priority 1
+ duplex auto
+ speed auto
+!
+interface GigabitEthernet1/0/2
+ no switchport
+ no ip address
+ channel-group 1 mode desirable
+ duplex auto
+ speed auto
+!
+interface GigabitEthernet1/0/3
+ no switchport
+ no ip address
+ channel-group 1 mode desirable
+ duplex auto
+ speed auto
+!
