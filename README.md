@@ -19,6 +19,7 @@ The purpose of this repository is to highlight key network essentials for device
 - SSH
 - NAT
 - Security; ACLs and L2 sec features
+- RDP
 
 ## Version History
 - 2-2-2026: README created and repositories created
