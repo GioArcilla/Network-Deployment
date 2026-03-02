@@ -22,5 +22,5 @@ The purpose of this repository is to highlight key network essentials for device
 - RDP
 
 ## Version History
-- 2-2-2026: README created and repositories created
-- 2-10-2026: Etherchannel path created, Layer 2 and Layer 3 topologies added
+- 2026-02-02: README created and repositories created
+- 2026-02-10: Etherchannel path created, Layer 2 and Layer 3 topologies added
