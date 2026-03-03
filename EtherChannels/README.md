@@ -19,4 +19,4 @@
 
 # Version History
 - 2026-02-12: Etherchannel paths created
-- 2026-03-02: Time format updated to YYYY/MM/DD
+- 2026-03-02: Time format updated to YYYY/MM/DD, bullet points added within README.md
