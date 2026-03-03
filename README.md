@@ -24,3 +24,4 @@ The purpose of this repository is to highlight key network essentials for device
 ## Version History
 - 2026-02-02: README created and repositories created
 - 2026-02-10: Etherchannel path created, Layer 2 and Layer 3 topologies added
+- 2026-03-02: Time format adjusted to YYYY/MM/DD, bullet points added within README.md
