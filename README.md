@@ -45,26 +45,15 @@ Wireless LANs and corresponding dynamic interfaces are configured on the WLC via
 
 
 ## Features
-- Initial setup
-- VLANs
-- L2/L3 Etherchannels
-- HSRP
-- IP Addressing
-- RSTP
-- Static Dynamic Routing
-- DHCP
-- DNS
-- NTP
-- SNMP
-- Syslog
-- FTP
-- SSH
-- NAT
-- Security; ACLs and L2 sec features
-- RDP
+|Initial setup|VLANs|L2/L3 Etherchannels|HSRP|
+|:---:|:---:|:---:|:---:|
+|IP Addressing|RSTP|Static Dynamic Routing|DHCP|
+|DNS|NTP|SNMP|Syslog|
+|FTP|SSH|NAT|ACLs|
+|RDP|WLC configs|L3 Security|L2 Security|
 
 ## Version History
 - 2026-02-02: README created and repositories created
 - 2026-02-10: Etherchannel path created, Layer 2 and Layer 3 topologies added
 - 2026-03-02: Time format adjusted to YYYY/MM/DD, bullet points added within README.md
-- 2026-04-19: Configuration section header added and its content
+- 2026-04-19: Configuration section header added and its content, Features section formatting adjusted to a table
