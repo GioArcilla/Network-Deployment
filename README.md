@@ -57,3 +57,7 @@ Wireless LANs and corresponding dynamic interfaces are configured on the WLC via
 - 2026-02-10: Etherchannel path created, Layer 2 and Layer 3 topologies added
 - 2026-03-02: Time format adjusted to YYYY/MM/DD, bullet points added within README.md
 - 2026-04-19: Configuration section header added and its content, Features section formatting adjusted to a table
+
+---
+
+*Built by [Gio Arcilla](https://www.linkedin.com/in/gioarcilla/) &middot; USA*
